@@ -101,7 +101,8 @@ pip install pandas numpy scikit-learn imbalanced-learn
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
 ## 👤 Author
-
+Rehnoor Aulakh
+Thapar University
 Predictive Analytics Assignment - Sampling Techniques
 
 ---
