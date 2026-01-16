@@ -1,0 +1,6 @@
+Model,Random Under-Sampling,Random Over-Sampling,Tomek Links,SMOTE,NearMiss
+Decision Tree,0.5,0.9891,0.9826,0.9672,0.1667
+KNN,0.1667,0.9847,0.987,0.8362,0.8333
+Logistic Regression,0.8333,0.9192,0.987,0.9258,0.5
+Random Forest,0.6667,1.0,0.987,0.9934,0.1667
+SVM,0.1667,0.6856,0.987,0.69,0.1667

@@ -1,0 +1,26 @@
+,Sampling Method,Model,Accuracy,F1-Score
+0,Random Under-Sampling,Logistic Regression,0.8333,0.0
+1,Random Under-Sampling,Decision Tree,0.5,0.4
+2,Random Under-Sampling,Random Forest,0.6667,0.5
+3,Random Under-Sampling,SVM,0.1667,0.2857
+4,Random Under-Sampling,KNN,0.1667,0.2857
+5,Random Over-Sampling,Logistic Regression,0.9192,0.9279
+6,Random Over-Sampling,Decision Tree,0.9891,0.9896
+7,Random Over-Sampling,Random Forest,1.0,1.0
+8,Random Over-Sampling,SVM,0.6856,0.6742
+9,Random Over-Sampling,KNN,0.9847,0.9855
+10,Tomek Links,Logistic Regression,0.987,0.0
+11,Tomek Links,Decision Tree,0.9826,0.0
+12,Tomek Links,Random Forest,0.987,0.0
+13,Tomek Links,SVM,0.987,0.0
+14,Tomek Links,KNN,0.987,0.0
+15,SMOTE,Logistic Regression,0.9258,0.9333
+16,SMOTE,Decision Tree,0.9672,0.9686
+17,SMOTE,Random Forest,0.9934,0.9937
+18,SMOTE,SVM,0.69,0.6979
+19,SMOTE,KNN,0.8362,0.8532
+20,NearMiss,Logistic Regression,0.5,0.0
+21,NearMiss,Decision Tree,0.1667,0.0
+22,NearMiss,Random Forest,0.1667,0.2857
+23,NearMiss,SVM,0.1667,0.2857
+24,NearMiss,KNN,0.8333,0.0
